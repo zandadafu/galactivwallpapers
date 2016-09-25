@@ -2,6 +2,18 @@
    "wallpapers": [
       {
          "author": "Alexander Fu",
+         "url": "http://i.imgur.com/flSggZz.jpg",
+         "name": "Vintage Rails",
+         "thumbnail": "http://i.imgur.com/flSggZz.jpg"
+      },
+      {
+         "author": "Alexander Fu",
+         "url": "http://i.imgur.com/yhtzuto.jpg",
+         "name": "Vines",
+         "thumbnail": "http://i.imgur.com/yhtzuto.jpg"
+      },
+      {
+         "author": "Alexander Fu",
          "url": "http://i.imgur.com/yba5pqy.jpg",
          "name": "Lonely Road",
          "thumbnail": "http://i.imgur.com/yba5pqy.jpg"
