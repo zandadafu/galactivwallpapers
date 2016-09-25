@@ -8,33 +8,57 @@
       },
       {
          "author": "Alexander Fu",
-         "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
-         "name": "Heads Up",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
+         "url": "http://i.imgur.com/RqfXP2y.jpg",
+         "name": "Sunset",
+         "thumbnail": "http://i.imgur.com/RqfXP2y.jpg"
       },
       {
          "author": "Alexander Fu",
-         "url": "https://github.com/afollestad/polar_json/raw/master/flamingos.jpg",
-         "name":" Flamingos",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/flamingos_thumb.jpg"
+         "url": "http://i.imgur.com/t6gASdd.jpg",
+         "name": "Tree Bark",
+         "thumbnail": "http://i.imgur.com/t6gASdd.jpg"
       },
       {
          "author": "Alexander Fu",
-         "url": "https://github.com/afollestad/polar_json/raw/master/forest_one.png",
-         "name": "Forest",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/forest_one_thumb.jpg"
+         "url": "http://i.imgur.com/C3R3lF9.jpg",
+         "name": "Life",
+         "thumbnail": "http://i.imgur.com/C3R3lF9.jpg"
       },
       {
          "author": "Alexander Fu",
-         "url": "https://github.com/afollestad/polar_json/raw/master/tree_farm.jpg",
-         "name": "Tree Farm",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/tree_farm_thumb.jpg"
+         "url": "http://i.imgur.com/rfeyDHy.jpg",
+         "name": "Intertwined",
+         "thumbnail": "http://i.imgur.com/rfeyDHy.jpg"
       },
       {
          "author":"Alexander Fu",
-         "url":"https://github.com/afollestad/polar_json/raw/master/tree_tops.jpg",
-         "name":"Tree Tops",
-         "thumbnail":"https://github.com/afollestad/polar_json/raw/master/tree_tops_thumb.jpg"
-      }
+         "url":"http://i.imgur.com/wFfR6XT.jpg",
+         "name": "Rock Stack",
+         "thumbnail":"http://i.imgur.com/wFfR6XT.jpg"
+      },
+      {
+         "author":"Alexander Fu",
+         "url":"http://i.imgur.com/tgxyJMf.jpg",
+         "name": "Rocky Road",
+         "thumbnail":"http://i.imgur.com/tgxyJMf.jpg"
+      },
+      {
+         "author":"Alexander Fu",
+         "url":"http://i.imgur.com/FeoGvH2.jpg",
+         "name": "Blurred Leaves",
+         "thumbnail":"http://i.imgur.com/FeoGvH2.jpg"
+      },
+      {
+         "author":"Alexander Fu",
+         "url":"http://i.imgur.com/FeoGvH2.jpg",
+         "name": "Blurred Leaves",
+         "thumbnail":"http://i.imgur.com/FeoGvH2.jpg"
+      },
+      {
+         "author":"Alexander Fu",
+         "url":"http://i.imgur.com/dtOo4js.jpg",
+         "name": "Rocky Edge",
+         "thumbnail":"http://i.imgur.com/dtOo4js.jpg"
+      },
    ]
 }
