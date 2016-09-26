@@ -2,6 +2,12 @@
    "wallpapers": [
       {
          "author": "Alexander Fu",
+         "url": "https://github.com/zandadafu/galactivwallpapers/raw/master/20150516_102557.jpg",
+         "name": "test",
+         "thumbnail": "https://github.com/zandadafu/galactivwallpapers/raw/master/20150516_102557.jpg"
+      },
+      {
+         "author": "Alexander Fu",
          "url": "http://i.imgur.com/xWRYZYW.jpg",
          "name": "Windy",
          "thumbnail": "http://i.imgur.com/xWRYZYW.jpg"
